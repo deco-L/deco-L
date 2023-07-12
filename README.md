@@ -1,13 +1,11 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deco-L)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=deco-L&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![](https://raw.githubusercontent.com/deco-L/deco-L/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/deco-L/deco-L/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/deco-L/deco-L/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<p align="left"> 
-  <a href="https://gitstar-ranking.com/deco-L">
-    <img height="20" src="https://img.shields.io/endpoint?label=star ranking&url=https%3A%2F%2Fgitstar-ranking.com%2Fusers%2Fdeco-L%2Fshields" />
-  </a>
-  <a href="https://user-badge.committers.top/japan/deco-L">
-    <img height="20" src="https://user-badge.committers.top/japan/deco-L.svg" />
-  </a>
-</p>
+[![](https://activity-graph.herokuapp.com/graph?username=deco-L&theme=github)](https://activity-graph.herokuapp.com/graph?username=deco-L&theme=github)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=deco-L&theme=dark)](https://github-readme-streak-stats.herokuapp.com/?user=deco-L&theme=dark)
+
 <!--
 **deco-L/deco-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
