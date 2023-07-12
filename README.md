@@ -1,5 +1,13 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deco-L)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="left"> 
+  <a href="https://gitstar-ranking.com/deco-L">
+    <img height="20" src="https://img.shields.io/endpoint?label=star ranking&url=https%3A%2F%2Fgitstar-ranking.com%2Fusers%2Fdeco-L%2Fshields" />
+  </a>
+  <a href="https://user-badge.committers.top/japan/deco-L">
+    <img height="20" src="https://user-badge.committers.top/japan/deco-L.svg" />
+  </a>
+</p>
 <!--
 **deco-L/deco-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
