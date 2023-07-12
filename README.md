@@ -5,7 +5,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=deco-L&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deco-L&theme=doracula)]
+(http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deco-L&theme=doracula)
 
 [![](https://raw.githubusercontent.com/deco-L/deco-L/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/deco-L/deco-L/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
