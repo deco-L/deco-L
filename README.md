@@ -8,6 +8,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=deco-L&theme=gruvbox)](https://github.com/deco-L/github-profile-trophy)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deco-L&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deco-L&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deco-L&theme=dark)
 
 [![](https://activity-graph.herokuapp.com/graph?username=deco-L&theme=github)](https://activity-graph.herokuapp.com/graph?username=deco-L&theme=github)
