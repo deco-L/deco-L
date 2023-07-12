@@ -5,9 +5,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=deco-L&theme=gruvbox)](https://github.com/deco-L/github-profile-trophy)
 
-[![](https://raw.githubusercontent.com/deco-L/deco-L/master/profile-summary-card-output/dracula/0-profile-details.svg)](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deco-L&theme=doracula)
-[![](https://raw.githubusercontent.com/deco-L/deco-L/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/deco-L/deco-L/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/deco-L/deco-L/master/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/deco-L/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/deco-L/deco-L/master/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/deco-L/github-profile-summary-cards) [![](https://raw.githubusercontent.com/deco-L/deco-L/master/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/deco-L/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/deco-L/deco-L/master/profile-summary-card-output/solarized/3-stats.svg)](https://github.com/deco-L/github-profile-summary-cards) [![](https://raw.githubusercontent.com/deco-L/deco-L/master/profile-summary-card-output/solarized/4-productive-time.svg)](https://github.com/deco-L/github-profile-summary-cards)
 
 [![](https://activity-graph.herokuapp.com/graph?username=deco-L&theme=github)](https://activity-graph.herokuapp.com/graph?username=deco-L&theme=github)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=deco-L&theme=dark)](https://github-readme-streak-stats.herokuapp.com/?user=deco-L&theme=dark)
