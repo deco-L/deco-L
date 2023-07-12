@@ -10,6 +10,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deco-L&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deco-L&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deco-L&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deco-L&theme=dark&utcOffset=8)
 
 [![](https://activity-graph.herokuapp.com/graph?username=deco-L&theme=github)](https://activity-graph.herokuapp.com/graph?username=deco-L&theme=github)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=deco-L&theme=dark)](https://github-readme-streak-stats.herokuapp.com/?user=deco-L&theme=dark)
