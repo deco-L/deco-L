@@ -20,7 +20,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: achievements.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.TOKEN }}
           base: ""
           output_action: gist
           committer_gist: ${{ secrets.GIST }}
