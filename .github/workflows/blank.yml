@@ -9,10 +9,10 @@ on:
 jobs:
   metrics:
     runs-on: ubuntu-latest
-    # environment: 
-    #   name: production
-    # permissions:
-    #   contents: write
+    environment: 
+      name: production
+    permissions:
+      contents: write
     steps:
 
       - name: 🦑 Achievements
