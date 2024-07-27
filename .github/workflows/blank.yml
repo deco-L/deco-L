@@ -20,13 +20,13 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: achievements.svg
-          token: ${{ secrets.TOKEN }}
-          # base: ""
-          # output_action: gist
-          # committer_gist: ${{ secrets.GIST }}
-          # plugin_achievements: yes
-          # plugin_achievements_display: compact
-          # plugin_fortune: yes
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_fortune: yes
       # - uses: lowlighter/metrics@latest
       #   with:
       #     token: ${{ secrets.METRICS_TOKEN }}
