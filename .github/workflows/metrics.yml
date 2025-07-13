@@ -57,7 +57,7 @@ jobs:
         with:
           filename: media.svg
           token: ${{ secrets.TOKEN }}
-          output_action: gits
+          output_action: gist
           committer_gist: ${{ secrets.GIST }}
           plugin_music: yes
           plugin_music_mode: top
