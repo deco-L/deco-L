@@ -51,11 +51,9 @@ jobs:
       #     plugin_notable: yes
       #     plugin_discussions: yes
 
-      - name: Use secret
-        env:
-          TOKEN: ${{ secrets.SPOTIFY_TOKENS }}
+      - name: Validate JSON format
         run: |
-          echo "Token value: $TOKEN"  # 出力: Token value: ***
+          echo '${{ secrets.SPOTIFY_TOKENS }}' | jq .
 
       - name: 🐏 Media
         if: ${{ success() || failure() }}
