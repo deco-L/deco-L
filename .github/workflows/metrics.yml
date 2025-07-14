@@ -51,10 +51,6 @@ jobs:
       #     plugin_notable: yes
       #     plugin_discussions: yes
 
-      - name: Validate JSON format
-        run: |
-          echo '${{ secrets.SPOTIFY_TOKENS }}' | jq .
-
       - name: 🐏 Media
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@v3.33
