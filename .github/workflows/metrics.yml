@@ -21,7 +21,7 @@ jobs:
         with:
           filename: achievements.svg
           token: ${{ secrets.TOKEN }}
-          base: header, repositories
+          base: ""
           output_action: gist
           committer_gist: ${{ secrets.GIST }}
           plugin_achievements: yes
@@ -34,7 +34,7 @@ jobs:
         with:
           filename: general.svg
           token: ${{ secrets.TOKEN }}
-          base: ""
+          base: header, repositories
           base_indepth: yes
           config_order: base.header, isocalendar, languages, notable, discussions, topics
           output_action: gist
