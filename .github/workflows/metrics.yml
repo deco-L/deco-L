@@ -53,7 +53,7 @@ jobs:
 
       - name: 🐏 Media
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@v3.33
+        uses: lowlighter/metrics@latest
         with:
           filename: media.svg
           token: ${{ secrets.TOKEN }}
