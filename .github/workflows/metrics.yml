@@ -15,7 +15,7 @@ jobs:
       contents: write
     steps:
 
-     - name: 🐏 Achievements
+      - name: 🐏 Achievements
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
